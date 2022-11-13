@@ -31,7 +31,7 @@
 
  ![image](https://user-images.githubusercontent.com/84717947/201519225-3073cea4-e1ca-437a-bf2b-52220db77b92.png)
 
-5.	Documentation 
+5.	Documentation:
 
 ![image](https://user-images.githubusercontent.com/84717947/201519227-c0463bba-07c2-4721-b424-ac5eafd2ef31.png)
  
